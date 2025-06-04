@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vindhya! <br/><a href="https://github.com/joshmadakor1">Computer Engineering Student</a></a></h1>
+<h1>Hi, I'm Vindhya! <br/><a>Computer Engineering Student</a></a></h1>
 
 <h2> My Python Projects:</h2>
 
