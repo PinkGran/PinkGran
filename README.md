@@ -2,7 +2,7 @@
 
 <h2> My Python Projects:</h2>
 
-- <b>Hirst Painting </b>
+- <b>Hirst Painting (Turtle graphics) </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
 
