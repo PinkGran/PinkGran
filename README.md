@@ -4,7 +4,9 @@
 
 - <b>Hirst Painting (Turtle graphics) </b>
   - [Hirst Painting](https://github.com/PinkGran/HirstPainting)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Snake Game </b>
+  - [Snake Game](https://github.com/PinkGran/snakegame)
+
 
 
 <h2>Connect with me:</h2>
