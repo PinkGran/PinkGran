@@ -6,6 +6,8 @@
   - [Hirst Painting](https://github.com/PinkGran/HirstPainting)
 - <b>Snake Game </b>
   - [Snake Game](https://github.com/PinkGran/snakegame)
+- <b>Pong Game <b/b>
+  - [Pong Game](https://github.com/PinkGran/Pong)
 
 
 
